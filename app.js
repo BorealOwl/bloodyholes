@@ -10,4 +10,4 @@ app.get('/', function(req, res){
 });
  
 server.listen(7170);
-console.log("Multiplayer app listening on port 80");
+console.log("Multiplayer app listening on port 7170");
