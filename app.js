@@ -9,5 +9,5 @@ app.get('/', function(req, res){
   res.render('/index.html');
 });
  
-server.listen(7170);
-console.log("Multiplayer app listening on port 7170");
+server.listen(3000);
+console.log("Multiplayer app listening on port 3000");
